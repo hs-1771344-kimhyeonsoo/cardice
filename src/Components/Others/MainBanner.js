@@ -6,7 +6,7 @@ const MainBannerWrapper = styled.div`
 const MainBanner = () => {
     return(
         <MainBannerWrapper>
-            {'test!'}
+            {'test'}
         </MainBannerWrapper>
     );
 }
